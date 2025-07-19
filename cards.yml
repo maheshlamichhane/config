@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs"
+  contactDetails:
+    name: "Susila Lc - Developer"
+    email: "susilalc@eazybank.com"
+  onCallSupport:
+    - (111)999-8834
+    - (111)239-1945

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs"
+  contactDetails:
+    name: "Kamal Sharma - Developer"
+    email: "kamalsharma@eazybank.com"
+  onCallSupport:
+    - (444)949-4844
+    - (444)483-2934

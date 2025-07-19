@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Pawan Lc - QA Lead"
+    email: "pawanlc@eazybank.com"
+  onCallSupport:
+    - (666)263-3799
+    - (666)778-8365
