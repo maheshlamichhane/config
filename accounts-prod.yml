@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related sdfds APIs"
+  message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}866dd54a9a75a0905fd560836867f5b2260e72d02d580dfe24c7f55a7148845122a4f9ca1380ad3c1f88f080964f6f84"
